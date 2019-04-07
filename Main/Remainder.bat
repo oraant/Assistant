@@ -1,0 +1,1 @@
+E:\WebSite\Assistant\venv\Scripts\python.exe E:\WebSite\Assistant\Main\Specker2.py
